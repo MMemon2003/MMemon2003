@@ -1,11 +1,11 @@
 <h1 align="center">Hi, I'm Muhammad 👋</h1>
 <p align="center">
-  Computer engineer from Dublin who likes building things that actually run.
+  Computer engineer from Dublin who likes to solve coding problems and work as a team in projects.
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/muhammad-memon-67819a246/"><img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Memon-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:muhammadmemon210@gmail.com"><img src="https://img.shields.io/badge/Email-muhammadmemon210%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="mailto:momemon2003@gmail.com"><img src="https://img.shields.io/badge/Email-momemon2003%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="YOUR-PORTFOLIO-LINK"><img src="https://img.shields.io/badge/Engineering-Portfolio-1F3864?style=flat" alt="Engineering Portfolio"></a>
 </p>
 
@@ -17,7 +17,7 @@ struct Me {
     const char* from        = "Dublin, Ireland";
     const char* studied     = "Computer Engineering, TU Dublin";
     const char* love[3]     = {"Football", "Badminton", "Programming"};
-    const char* learning[2] = {"C++", "Machine learning"};
+    const char* learning[2] = {"C++", "Machine learning","C programming","Java/JavaScript"};
     const char* best_when   = "Working with a new team";
 };
 ```
@@ -76,9 +76,9 @@ flowchart LR
 
 ## Away from the keyboard
 
-At university I started the Irish Sign Language Society, which grew to more than 50 members, and I was a student ambassador and class representative. I like bringing people together, and I'd like to do the same with a team of engineers.
+At university, I started the Irish Sign Language Society, which grew to more than 50 members, and I was a student ambassador and class representative. I like bringing people together, and I'd like to do the same with a team of engineers.
 
 ## Say hello
 
-If you're hiring graduates in embedded, software, IoT or networking, or you just want to talk about projects, message me on [LinkedIn](https://www.linkedin.com/in/muhammad-memon-67819a246/) or email me.
+If you're hiring graduates in embedded, software, IoT or networking, or you just want to talk about projects, message me on [LinkedIn](https://www.linkedin.com/in/muhammad-memon-67819a246/) or email me on momemon2003@gmail.com
 
