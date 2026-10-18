@@ -23,10 +23,10 @@ struct Me {
 ```
 
 ## A bit about me
+🎓 Computer Engineering Graduate | TU Dublin
+💻 Aspiring Software Engineer | Embedded Systems | IoT | Edge AI
 
-I'm happiest when a sensor reading on a tiny chip ends up as a live graph on a screen, and I'd rather work out why something is broken than leave it alone. I'm into football and badminton, and I like joining a new team and finding my place in it.
-
-Right now I'm teaching myself C++ and machine learning, and I'm looking for my first graduate engineering role in Dublin.
+I'm a Computer Engineering graduate from Technological University Dublin (TU Dublin) with hands-on experience in software development, embedded systems, IoT, and edge AI. I enjoy building practical, innovative solutions that combine hardware and software to solve real-world problems in teams/groups or indiviuals.
 
 ## What I'm proudest of
 
@@ -77,6 +77,7 @@ flowchart LR
 ## Away from the keyboard
 
 At university, I started the Irish Sign Language Society, which grew to more than 50 members, and I was a student ambassador and class representative. I like bringing people together, and I'd like to do the same with a team of engineers.
+I attend a part in IvenTure, a project made a gamified productivity app called ZoneIn where it  developed collaboratively through the TU Dublin IvenTUre Entrepreneurship Programme.
 
 ## Say hello
 
